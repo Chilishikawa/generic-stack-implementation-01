@@ -9,7 +9,7 @@ This class implements a generic stack using List<T> as the underlying data struc
 - Display(): Returns a copy of all the elements contained in the list.
 
 This class allows you to safely and flexibly handle any data type (T).
-
+<br>
 
 ### Person.cs Class:
 Defines a Person class with three properties: Name, Age, and Salary.
