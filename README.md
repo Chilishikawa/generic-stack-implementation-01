@@ -1,6 +1,7 @@
 # Generic Stack Implementation 01
 
 This project consists of 3 classes that implement a generic list that accepts integers, strings, and custom objects.
+<br><br>
 
 ### GenericStack.cs Class:
 This class implements a generic stack using List<T> as the underlying data structure (for storing items). It contains three main methods:
@@ -13,10 +14,11 @@ This class allows you to safely and flexibly handle any data type (T).
 
 ### Person.cs Class:
 Defines a Person class with three properties: Name, Age, and Salary.
-
+<br><br>
 
 ### Program.cs Class
 This program demonstrates the use of the GenericStack<T> class with different types: int, string, and Person.
+<br><br>
 
 #
 
@@ -29,14 +31,16 @@ Esta clase implementa un stack genérico usando List<T> como contenedor interno 
 - Display() que devuelve una copia todos los elementos contenidos en la lista.
 
 La clase permite manejar cualquier tipo de dato (T) de manera segura y flexible.
+<br><br>
 
 
 ### Clase Person.cs :
 Define una clase Person() que tiene 3 propiedades, Name, Age y Salary.
-
+<br><br>
 
 ### Clase Program.cs
 Este programa demuestra el uso de la clase GenericStack<T> con diferentes tipos: int, string y Person.
+<br><br>
 
 #
 
