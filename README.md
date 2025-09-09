@@ -10,8 +10,10 @@ This class implements a generic stack using List<T> as the underlying data struc
 
 This class allows you to safely and flexibly handle any data type (T).
 
+
 ### Person.cs Class:
 Defines a Person class with three properties: Name, Age, and Salary.
+
 
 ### Program.cs Class
 This program demonstrates the use of the GenericStack<T> class with different types: int, string, and Person.
@@ -28,8 +30,10 @@ Esta clase implementa un stack genérico usando List<T> como contenedor interno 
 
 La clase permite manejar cualquier tipo de dato (T) de manera segura y flexible.
 
+
 ### Clase Person.cs :
 Define una clase Person() que tiene 3 propiedades, Name, Age y Salary.
+
 
 ### Clase Program.cs
 Este programa demuestra el uso de la clase GenericStack<T> con diferentes tipos: int, string y Person.
