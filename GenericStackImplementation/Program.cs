@@ -24,7 +24,7 @@ namespace GenericStackImplementation
             Console.WriteLine("List of integer remaining in list: " + string.Join(", ", intsRemaining));
 
             //-------------
-            // INTEGERS
+            // STRINGS
             GenericStack<string> stringCaseGeneric = new GenericStack<string>();
 
             // Push 3 strings to list
